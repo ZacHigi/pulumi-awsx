@@ -1,6 +1,6 @@
 {
     "name": "@pulumi/awsx",
-    "version": "2.13.0-alpha.1718641221",
+    "version": "0.1.0-alpha.1718645348+66c426b",
     "keywords": [
         "pulumi",
         "aws",
@@ -32,6 +32,6 @@
     "pulumi": {
         "resource": true,
         "name": "awsx",
-        "version": "2.13.0-alpha.1718641221"
+        "version": "0.1.0-alpha.1718645348+66c426b"
     }
 }
